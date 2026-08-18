@@ -2,6 +2,9 @@ format: jb-book
 root: README
 
 parts:
+  - caption: GitHub Software Development Trends
+    chapters:
+      - file: notebooks/github-trends/software-development.ipynb
   - caption: Examples
     numbered: True
     chapters:
