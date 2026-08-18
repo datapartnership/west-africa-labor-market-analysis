@@ -1,8 +1,8 @@
-# Project Template
+# West Africa Labor Market Analysis
 
 [![CalVer](https://img.shields.io/badge/calver-YY.0M.MICRO-22bfda.svg)](https://calver.org)
-[![GitHub Release](https://img.shields.io/github/v/release/worldbank/template)](https://github.com/worldbank/template/releases)
-[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/worldbank/template/main.svg)](https://results.pre-commit.ci/latest/github/worldbank/template/main)
+[![GitHub Release](https://img.shields.io/github/v/release/datapartnership/west-africa-labor-market-analysis)](https://github.com/datapartnership/west-africa-labor-market-analysis/releases)
+[![pre-commit.ci status](https://results.pre-commit.ci/badge/github/datapartnership/west-africa-labor-market-analysis/main.svg)](https://results.pre-commit.ci/latest/github/datapartnership/west-africa-labor-market-analysis/main)
 
 The <span style="color:#3EACAD">template</span> is a standardized, but flexible *project* and *documentation* structure of folders and files for sharing your data science work.
 
