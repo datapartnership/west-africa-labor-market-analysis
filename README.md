@@ -1,3 +1,11 @@
 # West Africa Labor Market Analysis
 
-[Table of contents](docs/_toc.yml)
+## Assignment
+
+The Poverty team in West Africa is seeking to study labor market trends from LinkedIn and GitHub data. 
+
+## Contents
+
+```{tableofcontents}
+
+```
