@@ -17,7 +17,16 @@ jobs:
       - name: Install Dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-          if [ -f pyproject.toml ]; then pip install ".[docs]"; fi
+          pip install \
+            "altair>=5" \
+            "bokeh>=3,<4" \
+            "docutils==0.17.1" \
+            "jupyter-book>=1,<2" \
+            "numpy" \
+            "pandas>=2" \
+            "pycountry>=22.3.5" \
+            "requests>=2.28.1" \
+            "git+https://github.com/datapartnership/attaviz.git"
       - name: Build Juputer Book Documentation
         run: |
           jupyter-book build . --config docs/_config.yml --toc docs/_toc.yml
