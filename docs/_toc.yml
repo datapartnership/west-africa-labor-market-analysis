@@ -2,10 +2,10 @@ format: jb-book
 root: README
 
 parts:
-  # - caption: LinkedIn Labor Market Trends
-  #   chapters:
-  #     - file: notebooks/linkedin-trends/linkedin-hiring-rate.ipynb
-  #     - file: notebooks/linkedin-trends/linkedin-industry-performance.ipynb
+  - caption: LinkedIn Labor Market Trends
+    chapters:
+      - file: notebooks/linkedin-trends/linkedin-hiring-rate.ipynb
+      - file: notebooks/linkedin-trends/linkedin-skills.ipynb
   - caption: GitHub Software Development Trends
     chapters:
       - file: notebooks/github-trends/software-development.ipynb
