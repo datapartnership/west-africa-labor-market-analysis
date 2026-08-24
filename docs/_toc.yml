@@ -9,3 +9,4 @@ parts:
   - caption: GitHub Software Development Trends
     chapters:
       - file: notebooks/github-trends/software-development.ipynb
+      - file: notebooks/github-trends/regional-report.ipynb
